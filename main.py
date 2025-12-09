@@ -6,8 +6,8 @@ from config import API_ID, API_HASH, BOT_TOKEN
 
 app = Client(
     "txt-bulk-bot",
-    api_id=35181357
-    api_hash=249b30d940f4b4becf452da0c7101320
+    api_id = 35181357
+api_hash = "249b30d940f4b4becf452da0c7101320"
     bot_token=8519507737:AAE4b-3Gk8YBMQkR_p8jra1-XGaG9skXhl4
 )
 
